@@ -42,7 +42,7 @@ body {
   padding: 0 20px;
 }
 
-.audio-player .controls > * {
+.audio-player .controls>* {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -97,7 +97,7 @@ body {
   display: flex;
 }
 
-.audio-player .controls .time > * {
+.audio-player .controls .time>* {
   padding: 2px;
 }
 
